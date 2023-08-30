@@ -1,8 +1,8 @@
---
+---
 
 ![enjoy (5)](https://github.com/VeyselGaziDuran/VegeMovieApp/assets/81925500/93cfb12f-bcbe-4aed-8682-38cdc4c63122)
 
---
+---
 
 # Movie App
 
