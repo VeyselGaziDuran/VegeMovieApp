@@ -7,11 +7,12 @@
 # Movie App
 
 
+
 Movie App is a simple web application used to view popular movies and TV shows.
+
 
 ## Features
 
-- View popular movies and TV shows
 - Display details of movies and TV shows
 - Perform searches and view results
 - Customized page design with visual backgrounds
