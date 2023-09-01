@@ -1,6 +1,7 @@
 ---
 
-![enjoy (5)](https://github.com/VeyselGaziDuran/VegeMovieApp/assets/81925500/93cfb12f-bcbe-4aed-8682-38cdc4c63122)
+![enjoy (5)](https://github.com/VeyselGaziDuran/VegeMovieApp/assets/81925500/d51facdd-f6a2-480e-8bf3-4241ae6ad6de)
+
 
 ---
 
